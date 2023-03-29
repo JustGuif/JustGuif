@@ -14,8 +14,6 @@
 
  <p style="font-size: 10.8pt; text-align: center;">Pretendo colocar meu foco principal na área de Front-End, mas estar completamente disposto e curioso a aprender novas linguagens, áres e fundamentos.</p>
 
- <br>
-
  <div style="display: flex; justify-content: center; align-items: auto">
      <h3 style="font-size: 1.7rem">Tecnologias que estão no meu foco de estudo atualmente:</h3>
  </div>
