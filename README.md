@@ -4,7 +4,7 @@
 
 <br>
 
- <p style="font-size: 10.8pt; text-align: center;">Sou apenas um amante da tecnologia! <br> Ainda estou em fase inicial de estudo, mas o meu principal foco é dominar diversas linguagens, solucionar desafios/problemas de forma criativa/efetiva e desenvolver sistemas complexos que facilitem o conforto visual e interativo do usuário final.</p>
+ <p style="font-size: 10.8pt; text-align: center;">Sou apenas um amante da tecnologia! <br> O meu principal foco é dominar diversas linguagens, solucionar desafios/problemas de forma criativa/efetiva e desenvolver sistemas complexos que facilitem o conforto visual e interativo do usuário final.</p>
 
  <br>
 
