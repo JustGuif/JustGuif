@@ -1,5 +1,5 @@
 <div style="display: flex; justify-content: center; align-items: auto">
-    <h3 style="font-size: 1.7rem">Olá! Eu sou o Guilherme e é um prazer te receber aqui! 😊</h3>
+    <h3 style="font-size: 1.7rem">Olá! Eu sou o Guilherme! 😊</h3>
 </div>
 
 <br>
